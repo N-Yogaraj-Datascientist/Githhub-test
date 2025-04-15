@@ -21,7 +21,7 @@ data = {
 # Convert the dictionary into a pandas DataFrame
 df = pd.DataFrame(data)
 
-st.title("Dataset by yogi")
+st.title("Dataset by yogaraj N")
 df
 
 
